@@ -1,0 +1,3 @@
+com\ryan\cloud\common\core\result\Result.class
+com\ryan\cloud\common\core\result\SystemError.class
+com\ryan\cloud\common\core\result\ErrorMessage.class

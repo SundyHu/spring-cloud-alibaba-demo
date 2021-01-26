@@ -1,0 +1,5 @@
+com\ryan\cloud\common\feign\ext\SentinelFeign$Builder.class
+com\ryan\cloud\common\feign\ext\SentinelFeign$Builder$1.class
+com\ryan\cloud\common\feign\ext\SentinelFeign.class
+com\ryan\cloud\common\feign\ext\SentinelInvocationHandler.class
+com\ryan\cloud\common\feign\SentinelFeignAutoConfig.class
