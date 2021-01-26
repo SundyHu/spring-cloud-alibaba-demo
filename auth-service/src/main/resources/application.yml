@@ -1,0 +1,9 @@
+server:
+  port: 7101
+spring:
+  application:
+    name: @artifactId@
+  cloud:
+    nacos:
+      discovery:
+        server-addr: @nacos.server.addr@
