@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ryan.cloud.common.security.config.AuthorizationServerConfig,\
+  com.ryan.cloud.common.security.config.ResourceServerConfig,\
+  com.ryan.cloud.common.security.config.WebSecurityConfig
