@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.Resource;
 
 /**
- * SimpleUserDetailsService
+ * SimpleUserDetailsServiceImpl
  *
  * @author hkc
  * @version 1.0.0
@@ -20,7 +20,7 @@ import javax.annotation.Resource;
  */
 @Component
 @Slf4j
-public class SimpleUserDetailsService implements UserDetailsService {
+public class SimpleUserDetailsServiceImpl implements UserDetailsService {
 
     @Resource
     private PasswordEncoder passwordEncoder;
